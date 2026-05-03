@@ -48,25 +48,6 @@ gemini skills install ./plugins/lead-flow --scope workspace
 
 ---
 
-## 📁 Project Structure
-
-```text
-.
-├── marketplace.json        # Central index for Claude Code
-├── plugins/
-│   ├── engineering-presentation-builder/
-│   │   ├── .claude-plugin/ # Claude metadata
-│   │   ├── SKILL.md        # Gemini metadata & instructions
-│   │   ├── references/     # Shared knowledge base
-│   │   └── assets/         # Shared templates/assets
-│   └── lead-flow/
-│       ├── .claude-plugin/
-│       ├── SKILL.md
-│       ├── references/
-│       └── assets/
-└── README.md
-```
-
 ## 🤝 Contribution
 
 This project follows a dual-compatibility standard. When adding new plugins:
