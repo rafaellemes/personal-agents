@@ -1,0 +1,11 @@
+{
+  "name": "lead-flow",
+  "version": "1.0.0",
+  "description": "Strategic communication and leadership coach.",
+  "author": {
+    "name": "Rafael Lemes",
+    "email": "rafael.ads09@gmail.com"
+  },
+  "homepage": "https://github.com/rafaellemes",
+  "license": "MIT"
+}
