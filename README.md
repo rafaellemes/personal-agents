@@ -16,6 +16,11 @@ A collection of specialized AI agents and professional skills designed for high-
 *   **Goal**: Strategic coaching for management, feedback cycles, team alignment, and professional communication.
 *   **Key Features**: Diagnostic templates, difficult conversation preparation, and leadership alignment strategies.
 
+### 3. Soft Skill Presentation Builder
+*   **Domain**: Career & Behavioral Maturity
+*   **Goal**: Guides users through building high-impact personal and behavioral narratives for Specialist interviews.
+*   **Key Features**: HERO, CORE, and SPIRE frameworks, focus on emotional maturity and professional evolution.
+
 ---
 
 ## 🛠 Installation
@@ -24,11 +29,9 @@ A collection of specialized AI agents and professional skills designed for high-
 This project uses the `marketplace.json` standard for Claude Code plugins. You can install it by pointing to this repository:
 
 ```bash
-# Add the marketplace to Claude Code
-claude plugins add https://github.com/rafaellemes/personal-agents
+# Adicionar o marketplace ao Claude Code
+ /plugin marketplace add https://github.com/rafaellemes/personal-agents  
 
-# Or install from a local directory during development
-claude plugins add ./personal-agents
 ```
 
 ### For Gemini CLI
@@ -79,6 +82,11 @@ Uma coleção de agentes de IA especializados e skills profissionais projetados 
 *   **Objetivo**: Coaching estratégico para gestão, ciclos de feedback, alinhamento de equipe e comunicação profissional.
 *   **Recursos Principais**: Templates de diagnóstico, preparação para conversas difíceis e estratégias de alinhamento de liderança.
 
+### 3. Soft Skill Presentation Builder
+*   **Domínio**: Carreira e Maturidade Comportamental
+*   **Objetivo**: Guia o usuário na construção de narrativas pessoais e comportamentais de alto impacto para entrevistas de Especialista.
+*   **Recursos Principais**: Frameworks HERO, CORE e SPIRE, foco em maturidade emocional e evolução profissional.
+
 ---
 
 ## 🛠 Instalação
@@ -88,10 +96,8 @@ Este projeto utiliza o padrão `marketplace.json` para plugins do Claude Code. V
 
 ```bash
 # Adicionar o marketplace ao Claude Code
-claude plugins add https://github.com/rafaellemes/personal-agents
+ /plugin marketplace add https://github.com/rafaellemes/personal-agents  
 
-# Ou instalar a partir de um diretório local durante o desenvolvimento
-claude plugins add ./personal-agents
 ```
 
 ### Para Gemini CLI
