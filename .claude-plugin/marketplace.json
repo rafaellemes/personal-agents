@@ -35,6 +35,19 @@
       "homepage": "https://github.com/rafaellemes",
       "license": "MIT",
       "category": "management"
+    },
+    {
+      "name": "softskill-presentation-builder",
+      "source": "./plugins/softskill-presentation-builder",
+      "description": "Expert soft skills presentation and interview builder. Guides users through personal and behavioral narratives.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Rafael Lemes",
+        "url": "https://github.com/rafaellemes"
+      },
+      "homepage": "https://github.com/rafaellemes",
+      "license": "MIT",
+      "category": "career"
     }
   ]
 }
