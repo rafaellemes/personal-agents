@@ -1,0 +1,11 @@
+{
+  "name": "softskill-presentation-builder",
+  "version": "1.0.0",
+  "description": "Expert soft skills presentation and interview builder.",
+  "author": {
+    "name": "Rafael Lemes",
+    "email": "rafael.ads09@gmail.com"
+  },
+  "homepage": "https://github.com/rafaellemes",
+  "license": "MIT"
+}
